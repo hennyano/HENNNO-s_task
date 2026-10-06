@@ -1,0 +1,12 @@
+# 编译输出
+build/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
