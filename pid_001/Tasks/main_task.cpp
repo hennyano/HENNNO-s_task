@@ -46,7 +46,7 @@
 #define SPD_FILT_ALPHA 0.15f
 
 /* 速度环 PID：输入 rad/s，输出 = 电流给定(-CURR_LIMIT ~ +CURR_LIMIT) */
-#define SPD_PID_KP 150.0f
+#define SPD_PID_KP 250.0f
 #define SPD_PID_KI 400.0f
 #define SPD_PID_KD 0.0f
 
